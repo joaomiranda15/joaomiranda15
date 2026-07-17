@@ -20,8 +20,15 @@
 
 ##
 
-<div align="center">
+<div align="center" style="display: inline_block;">
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+</div>
+
+##
+
+<div align="center">
+  <a href = "https://br.linkedin.com/in/jo%C3%A3o-paulo-de-miranda-carvalho-80505034b?trk=people-guest_people_search-card" target="_blank"><img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href = "malito:paulocjpaulo@gmail.com" target="_blank"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
