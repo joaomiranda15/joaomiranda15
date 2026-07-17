@@ -32,3 +32,5 @@
   <a href = "https://br.linkedin.com/in/jo%C3%A3o-paulo-de-miranda-carvalho-80505034b?trk=people-guest_people_search-card" target="_blank"><img height="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href = "malito:paulocjpaulo@gmail.com" target="_blank"><img height="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
+
+![Snake animation](https://github.com/joaomiranda15/joaomiranda15/blob/output/github-contribution-grid-snake.svg)
