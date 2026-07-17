@@ -19,7 +19,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
       - name: Slow down the snake animation
         run: |
-          sed -i -E 's/dur="([0-9.]+)s"/echo "dur=\"$(echo "\1 * 2" | bc)s\""/ge' dist/github-contribution-grid-snake.svg
+          perl -i -pe 's/dur="([\d.]+)s"/"dur=\"" . ($1*2) . "s\""/ge' dist/github-contribution-grid-snake.svg
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
