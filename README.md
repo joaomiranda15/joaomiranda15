@@ -51,4 +51,3 @@ Sou estudante de Ciência da Computação e apaixonado por tecnologia (e é clar
   <img src="https://github.com/joaomiranda15/joaomiranda15/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </div>
 
-![Snake animation](https://github.com/joaomiranda15/joaomiranda15/blob/output/github-contribution-grid-snake.svg)
